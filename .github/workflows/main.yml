@@ -1,4 +1,4 @@
-name: Deploy to ECR and AppRunner with Docker Image
+name: Deploy to ECR and AppRunner with Docker
 
 on:
   push:
